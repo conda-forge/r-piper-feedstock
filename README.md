@@ -1,11 +1,11 @@
-About r-piper
-=============
+About r-piper-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-piper-feedstock/blob/main/LICENSE.txt)
 
 Home: https://renkun.me/pipeR, https://github.com/renkun-ken/pipeR, https://renkun.me/pipeR-tutorial
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-piper-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides various styles of function chaining methods: Pipe operator, Pipe object, and pipeline function, each representing a distinct pipeline model yet sharing almost a common set of features: A value can be piped to the first unnamed argument of a function and to dot symbol in an enclosed expression. The syntax is designed to make the pipeline more readable and friendly to a wide range of operations.
 
